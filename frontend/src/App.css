@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(61, 61, 61);
+    margin: 0; 
+    font-family: sans-serif; 
+  }
+
+.app{
+  color:#242424;
+  color:'lightgtreen';
+}
